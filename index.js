@@ -14,6 +14,8 @@ function fetchAPI() {
         answer.textContent = response.answer;
         })
     });
-}
+};
 
-fetchAPI()
+fetchAPI();
+
+
